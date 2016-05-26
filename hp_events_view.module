@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the hp-events-view feature.
+ */
+
+include_once 'hp_events_view.features.inc';
